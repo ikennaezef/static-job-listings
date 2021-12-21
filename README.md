@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/ikennaezef/static-job-listings)
 - Live Site URL: (https://ikennaezef.github.io/static-job-listings/)
 
 ## My process

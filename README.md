@@ -50,10 +50,3 @@ Users should be able to:
 ### What I learned
 
 On this challenge, I got to improve my knowledge on the React Library, react component props and some React Hooks - esp. the useState and useEffect hooks. I'm also getting more comfortable with writing ES6 standard Javascript. 
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
